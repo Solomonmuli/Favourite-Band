@@ -1,0 +1,39 @@
+body{
+  background-color: rosybrown;
+}
+H1{
+  text-align: CENTER;
+  border: 2px solid black;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  font-style: initial;
+}
+p{
+  border: 2px solid black;  
+  padding: 10px;
+  font-family: Georgia, 'Times New Roman';
+
+}
+h4{
+  padding: 10px;
+  color: red
+  
+}
+h3{
+  color: blueviolet;
+}
+a:link{
+  background-color: rosybrown;
+}
+#footer{
+  border: none;
+}
+#main{
+  width: 100%;
+  height: 500px;
+}
+.image{
+  height: 200px;
+  width: 300px;
+}
