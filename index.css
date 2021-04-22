@@ -35,7 +35,7 @@ a:link{
   border:none ;
 }
 #main{
-  width: 100%;
+  width: 98%;
   height: 500px;
   padding: 5px;
   
@@ -44,6 +44,7 @@ a:link{
   height: 200px;
   width: 300px;
   padding: 5px;
+
 }
 h5{
   margin:5px;
