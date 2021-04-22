@@ -13,6 +13,9 @@ Basic website about my favourite band.
 - List of my favourite songs
 
 ---
+## Live Server
+[Live server] (https://solomonmuli.github.io/Favourite-Band/)
+
 ## Author Name
 
 - Solomon Muli
@@ -22,3 +25,4 @@ Basic website about my favourite band.
 ## License & copyright
 
 Copyright © Solomon Muli, My_favourite_band
+
