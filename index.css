@@ -60,6 +60,10 @@ ol:hover{
   color: blue;
 
 }
-.footer p{
+.copywrite p{
   border: none ;
+  font-size: 15px;
+  text-align: center  ;
+  padding: 5px;
+  font-size: 13px;
 }
