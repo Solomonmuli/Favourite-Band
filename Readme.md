@@ -1,7 +1,6 @@
 <!--ABOUT MY FAVOURITE BAND -->
 # METALLICA
 
-
 ---
 ## Description
 Basic website about my favourite band.
@@ -14,7 +13,7 @@ Basic website about my favourite band.
 
 ---
 ## Live Server
-[Live server] (https://solomonmuli.github.io/Favourite-Band/)
+[Live server](https://solomonmuli.github.io/Favourite-Band/)
 
 ## Author Name
 
