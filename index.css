@@ -21,6 +21,7 @@ p{
 }
 h3{
   color: blueviolet;
+  padding: 10px;
 }
 h4{
   padding: 10px;
@@ -44,3 +45,8 @@ a:link{
   width: 300px;
   padding: 5px;
 }
+h5{
+  margin:5px;
+  padding: 10px;
+  font-size: 13px;
+} 
