@@ -1,6 +1,6 @@
 <!--ABOUT MY FAVOURITE BAND -->
 # METALLICA
-!(webpage image)()
+
 
 ---
 ## Description
