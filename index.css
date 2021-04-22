@@ -1,7 +1,8 @@
 body{
   background-color: rgb(184, 197, 187);
-  margin: 0 100px;  
+  width: 90%; 
   border: 2px solid black;
+  margin: 0 auto;
 }
 H1{
   text-align: CENTER;
@@ -31,14 +32,15 @@ h4{
 a:link{
   background-color: rosybrown;
 }
-.footer{
-  border: none ;
+#img-o{
+  margin: 0 2%;
+
 }
 #main{
   width: 98%;
   height: 500px;
-  padding: 5px;
-  
+  padding-left: 5px;
+ 
 }
 .image{
   height: 200px;
@@ -51,3 +53,10 @@ h5{
   padding: 10px;
   font-size: 13px;
 } 
+ol:hover{
+  color: blue;
+
+}
+.footer p{
+  border: none ;
+}
