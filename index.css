@@ -11,12 +11,13 @@ H1{
   padding: 20px;
   font-style: initial;
   margin-top: 0;
+  font-weight: 700;
 }
 p{
   border: 2px solid black;  
   padding: 10px;
   font-family: Georgia, 'Times New Roman';
-  width: 100%;
+  width: 90%%;
   margin: 5px;
 }
 h3{
