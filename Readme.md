@@ -6,16 +6,16 @@
 ## Description
 Basic website about my favourite band.
 
--Introduction paragraph.
--Images of each band member.
--Brief biography of each band member.
--List of their songs
--List of my favourite songs
+- Introduction paragraph.
+- Images of each band member.
+- Brief biography of each band member.
+- List of their songs
+- List of my favourite songs
 
 ---
 ## Author Name
 
--Solomon Muli
+- Solomon Muli
 
 
 ---
