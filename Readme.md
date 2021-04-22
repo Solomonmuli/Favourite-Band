@@ -12,10 +12,10 @@ Basic website about my favourite band.
 -List of their songs
 -List of my favourite songs
 
+---
+## Author Name
 
-
-
-
+-Solomon Muli
 
 
 ---
