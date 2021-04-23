@@ -38,6 +38,9 @@ h4{
 a:link{
   background-color: rosybrown;
 }
+em{
+  color: yellow;
+}
 #img-o{
   /* margin: auto;
   left: auto;
